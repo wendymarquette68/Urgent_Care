@@ -1,0 +1,11 @@
+Model Information:
+* title:	Silly Dancing Doctor
+* source:	https://sketchfab.com/3d-models/silly-dancing-doctor-84f0eabb482d46e1b39a3d559130a664
+* author:	Legend_Moppy (https://sketchfab.com/Legend_Moppy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Silly Dancing Doctor" (https://sketchfab.com/3d-models/silly-dancing-doctor-84f0eabb482d46e1b39a3d559130a664) by Legend_Moppy (https://sketchfab.com/Legend_Moppy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
